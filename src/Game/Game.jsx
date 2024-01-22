@@ -1,7 +1,6 @@
 import React, { useState ,useEffect } from 'react'
 import './Game.css'
 import logo from '../assets/logo.svg'
-import icon_o_silver from '../assets/icon-o(silver).svg'
 import icon_x_silver from '../assets/icon-x(silver).svg'
 import icon_x from '../assets/icon-x.svg'
 import icon_o from '../assets/icon-o.svg'
