@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800;900&display=swap');
+:root{
+	--bg-primary-color:#1a2a33;
+	--bg-neutral-color:#a8bfc9;
+	--bg-button-color:#f2b137;
+	--bg-button-shadow:#cc8b13;
+	--bg-card-color:#1f3641;
+	--bg-card-shadow:#10212a;
+	--font-color:#a8bfc9;
+	--font-color-shadow:#6b8997;
+}
