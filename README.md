@@ -6,7 +6,7 @@ This is a Tic Tac Toe game built using React.js and styled with CSS.
 
 1. Clone this repository to your local machine.
    ```
-   git clone https://github.com/sakthikumaran-04/tic-tac-toe-react.git
+   git clone https://github.com/sakthikumaran-04/tic-tac-toe.git
    ```
 
 2. Navigate to the project directory.
