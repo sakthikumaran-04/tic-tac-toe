@@ -2,7 +2,7 @@
 
 This is a Tic Tac Toe game built using React.js and styled with CSS.
 
-## How to Play
+## How to clone
 
 1. Clone this repository to your local machine.
    ```
