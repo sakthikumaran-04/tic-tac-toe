@@ -122,7 +122,7 @@ function Game(props) {
 
 
 
-    <div className={result?`result block`:"result"}>
+    <div className={`result ${result?"block":" "}`}>
   <h1>{result ==='x' ? "Congratulations!!!":(result === "o")?"Congratulations!!!":"Sorry Ties!!!"}</h1>
   <div className="final">
   <img src={result === "x" ? icon_x : (result === "ties" ? logo : (result ==="o" ? icon_o:" "))} alt="" />
